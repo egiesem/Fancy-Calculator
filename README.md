@@ -8,3 +8,8 @@ Demo Web : https://calc.egidev.site/#/
 
 
 ![alt text](https://i.imgur.com/uSjl7cf.png)
+![alt text](https://i.imgur.com/RNVcuNc.png)
+![alt text](https://i.imgur.com/4Qx2ckd.png)
+![alt text](https://i.imgur.com/lZHul6o.png)
+![alt text](https://i.imgur.com/9WWR0Wl.png)
+
